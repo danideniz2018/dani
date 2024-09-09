@@ -1,0 +1,68 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px
+    
+}
+
+header {
+    border-bottom: solid 2px purple;
+    padding: 20px;
+    font-size: 32px;
+    color: purple;
+
+}
+
+section {
+    background: #221633;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+sections {
+    margin-right: 5%;
+    
+
+}
+
+h1 {
+    font-size: 30px;
+    font-family: "Roboto Slab", serif;
+
+}
+
+p {
+    font-size: 15px;
+
+}
+
+img {
+    height: 200px;
+
+
+
+}
+
+img {
+    opacity: 0.5;
+    height: 200px;
+
+    }
+
+    img:hover{
+        opacity: 1.0;
+        border: 1px solid white
+    }
+
+    h2{
+        color: white
+        margin: 20px;
+    
+    
+
+
+
+    }
